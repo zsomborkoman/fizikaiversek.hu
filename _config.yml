@@ -20,8 +20,8 @@
 
 title: fizikaiVersek
 email: fizikaiversek@gmail.com
-author: koman-zsombor
-description: fizikai versek
+author.url: /koman_zsombor
+description: fizikaiVersek
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
