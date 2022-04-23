@@ -1,7 +1,7 @@
 ---
 layout: page
-title: &#125;
+title: 
 permalink: /izvonal/
 ---
 
-# Ízvonal
+# {
