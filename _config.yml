@@ -20,6 +20,8 @@
 
 title: fizikaiVersek
 email: fizikaiversek@gmail.com
+author: koman-zsombor
+description: fizikai versek
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
@@ -37,18 +39,13 @@ header_pages:
  - nincs_utkozesig.markdown
 
 
-copyright:             >
-  © {{ site.time | date: '%Y' }}. Minden jog fenntartva.
-
 
 # Build settings
-# theme: minima
-remote_theme: pages-themes/hacker@v0.2.0
+theme: minima
 
 plugins:
   - jekyll-feed
   - jekyll-redirect-from
-  - jekyll-remote-theme
   
 whitelist:
   - jekyll-redirect-from
