@@ -26,6 +26,18 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 
+
+header_pages:
+ - alomfelejtes.markdown
+ - parhuzamos_onkonzerv.markdown
+ - simplificacion.markdown
+ - rekviem.markdown
+ - izvonal.markdown
+ - lathatar.markdown
+ - cupola_profana.markdown
+ - nincs_utkozesig.markdown
+
+
 copyright:             >
   © {{ site.time | date: '%Y' }}. Minden jog fenntartva.
 
