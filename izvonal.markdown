@@ -1,6 +1,6 @@
 ---
 layout: page
-title: {%raw%}}{%endraw%}
+title: &#125;
 permalink: /izvonal/
 ---
 
