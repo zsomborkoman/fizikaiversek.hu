@@ -1,7 +1,7 @@
 ---
 layout: page
-title: (
+title: ↀ
 permalink: /simplificacion/
 ---
 
-# SIMPLIFICACIÓN
+# Simplificación
