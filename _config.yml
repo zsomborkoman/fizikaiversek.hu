@@ -18,8 +18,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Zsombor Koman
-email: zsomko@gmail.com
+title: fizikaiVersek
+email: fizikaiversek@gmail.com
 #description: >- # this means to ignore newlines until "baseurl:"
 #  Personal website of Zsombor Koman. The page is very much under development,
 #  please reach out to me if you are interested in any details not found here
@@ -28,10 +28,6 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 
-google_analytics: G-RDLW089017
-
-github_username:  zsomborkoman
-linkedin_username: zsombor-koman
 
 # Build settings
 theme: minima
