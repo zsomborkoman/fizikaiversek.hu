@@ -23,3 +23,9 @@ Online (is) megjelent versek:
 - [Műút, 2017. október](http://www.muut.hu/archivum/25851)
 - [Szifonline, 2017. augusztus](https://www.szifonline.hu/szepirodalom/kolteszet/1602-Koman_Zsombor_versei)
 - [Rost, 2017. július](https://issuu.com/rostirodalmilap/docs/rostirodalmilap_1.sz__m_ny__r_2017)
+
+Filmes-hangos vers, 2013: [Galambodzik az ég](https://vimeo.com/79597921)
+
+Fordítások:
+- [Andrei Dósa versei, 1749, 2020](https://1749.hu/szepirodalom/vers/andrei-dosa-versei.html)
+- [Andrei Dósa versei, Tempevölgy, 2019](http://tempevolgy.hu/index.php/online/online-olvasoterem/item/213-andrei-dosa-versei)
