@@ -29,6 +29,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 
 header_pages:
+- koman_zsombor.markdown
 # - alomfelejtes.markdown
 # - parhuzamos_onkonzerv.markdown
 # - simplificacion.markdown
