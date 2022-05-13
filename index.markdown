@@ -13,3 +13,7 @@ layout: home
 
 ~ Lanczkor Gábor
 
+<br/><br/>
+
+Megrendelhető online: [Írók Boltja](https://www.irokboltja.hu/?t=productoverview&kod=11214424), [IDEA könyvtér](https://ideakonyvter.ro/konyv/3173-fizikai-versek-9786068118758.html).
+
