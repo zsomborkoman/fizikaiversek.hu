@@ -4,4 +4,4 @@ title: Tartalomjegyzék helyett
 permalink: /tartalom/
 ---
 
-<img width="100%" src="/assets/tartalom.png">
+<img width="60%" src="/assets/tartalom.png">
