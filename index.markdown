@@ -15,5 +15,5 @@ layout: home
 
 <br/><br/>
 
-Megrendelhető online: [Írók Boltja](https://www.irokboltja.hu/?t=productoverview&kod=11214424), [IDEA könyvtér](https://ideakonyvter.ro/konyv/3173-fizikai-versek-9786068118758.html).
+Megrendelhető online: [Írók Boltja](https://www.irokboltja.hu/?t=productoverview&kod=11214424), [IDEA könyvtér](https://ideakonyvter.ro/konyv/3173-fizikai-versek-9786068118758.html), [erdelyikonyv.hu](http://erdelyikonyv.hu/shop/konyv/Koman-Zsombor-Fizikai-versek), [numero7](https://gwww.numero7.com/konyvesbolt/9786068118758/koman-zsombor/fizikai-versek.html).
 
