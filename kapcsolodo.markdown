@@ -6,6 +6,9 @@ title: Kapcsolódó kacatok
 layout: page
 ---
 
+Mások szemével:
+- [Helikon: beszámoló, 2022. június](https://www.helikon.ro/bejegyzesek/a-kulonfele-kalandozasok-csak-erositik-egymast-koman-zsombor-debutkotetenek-bemutatojarol)
+
 Online (is) megjelent versek:
 - [Új Várad, 2022. január](https://www.ujvarad.ro/irodalom/koman-zsombor-versei/)
 - [Helikon, 2021. december](https://www.helikon.ro/bejegyzesek/koman-zsombor-versei)
