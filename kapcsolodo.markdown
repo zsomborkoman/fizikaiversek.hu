@@ -8,6 +8,7 @@ layout: page
 
 Mások szemével:
 - [Helikon: beszámoló, 2022. június](https://www.helikon.ro/bejegyzesek/a-kulonfele-kalandozasok-csak-erositik-egymast-koman-zsombor-debutkotetenek-bemutatojarol)
+- [Brassói Lapok: interjú, 2022. június](/assets/brassoi_lapok_interju.pdf)
 
 Online (is) megjelent versek:
 - [Új Várad, 2022. január](https://www.ujvarad.ro/irodalom/koman-zsombor-versei/)
